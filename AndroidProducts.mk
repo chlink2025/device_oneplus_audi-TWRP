@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_avalon.mk
+    $(LOCAL_DIR)/twrp_audi.mk
